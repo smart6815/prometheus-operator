@@ -8,3 +8,4 @@
 2016-03-14 16:30:13 +0000 - update docs
 2016-03-14 16:54:08 +0000 - update docs
 2016-03-18 09:14:41 +0000 - improve function
+2016-03-18 17:07:51 +0000 - improve function
