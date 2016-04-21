@@ -50,3 +50,4 @@
 2016-04-21 09:37:51 +0000 - improve function
 2016-04-21 10:57:33 +0000 - improve function
 2016-04-21 14:21:21 +0000 - improve function
+2016-04-21 18:43:40 +0000 - update docs
