@@ -68,3 +68,4 @@
 2016-05-09 13:12:47 +0000 - update code
 2016-05-14 09:02:49 +0000 - update docs
 2016-05-14 14:39:19 +0000 - improve function
+2016-05-18 12:32:39 +0000 - improve function
