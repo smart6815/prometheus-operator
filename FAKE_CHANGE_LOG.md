@@ -71,3 +71,4 @@
 2016-05-18 12:32:39 +0000 - improve function
 2016-05-18 15:26:17 +0000 - fix issue
 2016-05-19 17:23:29 +0000 - improve function
+2016-05-19 09:21:46 +0000 - refactor module
