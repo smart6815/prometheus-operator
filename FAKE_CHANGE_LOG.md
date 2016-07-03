@@ -111,3 +111,4 @@
 2016-06-28 16:09:13 +0000 - update docs
 2016-07-03 19:42:24 +0000 - update docs
 2016-07-03 12:01:39 +0000 - refactor module
+2016-07-03 16:52:15 +0000 - improve function
