@@ -201,3 +201,4 @@
 2016-09-16 14:31:45 +0000 - improve function
 2016-09-16 10:31:15 +0000 - update docs
 2016-09-17 15:44:36 +0000 - update code
+2016-09-17 17:16:11 +0000 - refactor module
