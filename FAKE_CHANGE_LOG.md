@@ -238,3 +238,4 @@
 2016-10-25 11:49:19 +0000 - update docs
 2016-10-25 15:00:46 +0000 - update docs
 2016-10-26 16:20:58 +0000 - improve function
+2016-10-26 19:04:04 +0000 - refactor module
