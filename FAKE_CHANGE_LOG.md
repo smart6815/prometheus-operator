@@ -270,3 +270,4 @@
 2016-12-04 14:59:50 +0000 - improve function
 2016-12-08 15:44:48 +0000 - update docs
 2016-12-08 09:25:03 +0000 - update docs
+2016-12-08 19:47:05 +0000 - refactor module
