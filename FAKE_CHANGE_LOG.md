@@ -354,3 +354,4 @@
 2017-02-24 08:13:16 +0000 - improve function
 2017-02-24 17:17:37 +0000 - improve function
 2017-03-01 20:56:51 +0000 - update code
+2017-03-01 09:55:00 +0000 - update docs
