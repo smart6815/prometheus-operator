@@ -379,3 +379,4 @@
 2017-03-24 19:45:44 +0000 - refactor module
 2017-03-25 15:10:15 +0000 - update code
 2017-03-25 19:30:08 +0000 - update docs
+2017-03-26 09:34:03 +0000 - improve function
