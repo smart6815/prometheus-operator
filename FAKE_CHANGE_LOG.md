@@ -387,3 +387,4 @@
 2017-04-01 10:15:38 +0000 - improve function
 2017-04-03 10:16:16 +0000 - improve function
 2017-04-07 15:48:44 +0000 - update docs
+2017-04-07 20:51:38 +0000 - update docs
