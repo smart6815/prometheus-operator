@@ -407,3 +407,4 @@
 2017-04-19 18:48:11 +0000 - update code
 2017-04-19 18:48:13 +0000 - update code
 2017-04-24 18:00:39 +0000 - refactor module
+2017-04-25 08:15:29 +0000 - improve function
